@@ -1,3 +1,5 @@
+"use client";
+
 import { useEffect } from "react";
 import { isAuthorized } from "../../../utils";
 import { useParams } from "next/navigation";

@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/[userId]/page": "app/[userId]/page.js",
+  "/login/page": "app/login/page.js",
+  "/[userId]/p5-history/page": "app/[userId]/p5-history/page.js",
+  "/[userId]/reward-history/page": "app/[userId]/reward-history/page.js"
+}
